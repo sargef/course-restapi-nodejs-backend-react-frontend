@@ -26,7 +26,7 @@
 <h2><b><p align="center">Configure frontend</p></b></h2>
 </br>
 
-<h4><b>1.cd into 'client' folder</b></h4>
+<h4><b>1. cd into 'client' folder</b></h4>
 <h4><b>2. run 'npm install'</b></h4>
 <h4><b>3. 'npm start'</b></h4>
 <h4><b>4. Go to localhost:3000 to view app!</b></h4>
