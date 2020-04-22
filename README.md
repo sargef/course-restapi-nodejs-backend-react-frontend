@@ -33,6 +33,6 @@
 </br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h1><p align="center">If you would like to upload your app to the web using heroku, instructions can be found here: https://github.com/sargef/course-restapi-backend-nodejs-frontend-react-live</p></h1>
+<h3><p align="center">If you would like to upload your app to the web using heroku, instructions can be found here: https://github.com/sargef/course-restapi-backend-nodejs-frontend-react-live</p></h3>
 <br />
 
