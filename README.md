@@ -9,12 +9,12 @@
 <h1><p align="center">This react app will require the following config to work on your localhost.</p></h1>
 <br />
 
-<h2><b><p align="center">Download files</p></b></h2>
+<h2><b><p align="center">Firstly download files</p></b></h2>
 </br>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h2><b><p align="center">Initialize backend"</p></b></h2>
+<h2><b><p align="center">Configure backend</p></b></h2>
 </br>
   
 <h4><b>1. In your terminal, root folder, run 'npm install'</b></h4>
