@@ -17,7 +17,7 @@
 <h2><b><p align="center">Configure backend</p></b></h2>
 </br>
   
-<h4><b>1. In your terminal, root folder, run 'npm install'</b></h4>
+<h4><b>1. In your terminal, root folder, cd into 'api' folder and run 'npm install'</b></h4>
 <h4><b>2. run 'npm run seed'</b></h4>
 <h4><b>3. 'npm start'</b></h4>
 </br>
